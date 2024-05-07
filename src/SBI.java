@@ -68,6 +68,7 @@ public class SBI implements BankInterface{
     //after intilaizing getter and stter we need to comaplte this functions
     @Override
     public int getBalance() {
+
         return this.balance;
     }
 
